@@ -21,7 +21,8 @@
 
 <img src="./resources/Installation_jpn1.png">
 
-+ "catvba_project" フォルダ内にある "CATIA_V5_SimpleMacroMenu.catvba" ファイルを任意の位置にコピペします。その際、任意のファイル名に変更して頂いても大丈夫です。
++ "catvba_project" フォルダ内にある "CATIA_V5_SimpleMacroMenu.zip" ファイルをさらに展開し、"CATIA_V5_SimpleMacroMenu.catvba" ファイルを
+任意の位置にコピペします。その際、任意のファイル名に変更して頂いても大丈夫です。
 
 + CATIA V5を起動し "ツール" - "マクロ" - "マクロ..." をクリック。 
 
